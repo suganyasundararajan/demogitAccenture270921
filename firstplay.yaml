@@ -1,6 +1,0 @@
----
-- hosts: all
-  tasks:
-    - command: "hostname"
-    - command: "hostname1"
-    - command: "hostname2"
